@@ -14,5 +14,8 @@
  - set PORT
  - execute ```npm run start```
 
+## Documentation
+Once the server is up and running open http://localhost:3000/docs/ for documentation
+
 ## Notes
  - Intentionally commiting ```.env``` file to the git. 
